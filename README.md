@@ -1,1 +1,2 @@
 # lead-scoring-case-study
+This project is all about lead scoring for an EdTech company. Its main goal is to predict the factors that play a role in converting leads into customers. By using logistic regression, a model was created to identify the important factors and how they affect the probability of conversion. The results of this analysis offer valuable insights that can help optimize lead targeting strategies and enhance conversion rates.
